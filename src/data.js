@@ -2,6 +2,7 @@
 export default [
     {
         id: 1,
+        destinationImg: "mount_fuji.png",
         destinationName: "Mount Fuji",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
@@ -12,6 +13,7 @@ export default [
     },
     {
         id: 2,
+        destinationImg: "sydney_opera_house.png",
         destinationName: "Sydney Opera House",
         startDate: "27 May, 2021",
         endDate: "8 Jun, 2021",
@@ -22,6 +24,7 @@ export default [
     },
     {
         id: 3,
+        destinationImg: "feirangerfjord.png",
         destinationName: "Geirangergfjord",
         startDate: "01 Oct, 2021",
         endDate: "18 Nov, 2021",
