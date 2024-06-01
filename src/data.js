@@ -25,7 +25,7 @@ export default [
     {
         id: 3,
         destinationImg: "geirangerfjord.png",
-        destinationName: "Geirangergfjord",
+        destinationName: "Geirangerfjord",
         startDate: "01 Oct, 2021",
         endDate: "18 Nov, 2021",
         description:
