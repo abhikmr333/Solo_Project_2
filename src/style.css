@@ -17,7 +17,57 @@ header {
 
 .header--name {
     color: white;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     font-weight: 500;
+}
+
+.destination-card {
+    margin-top: 100px;
+    display: flex;
+}
+
+.destination-card--info {
+    margin-left: 20px;
+}
+
+.destination-card--name {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    margin-top: 4px;
+}
+
+.destination-card--link {
+    margin-left: 12px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    color: #918e9b;
+}
+
+.destination-card--location {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+}
+
+.destination-card--ping {
+    width: 9px;
+    height: 12px;
+    margin-right: 2px;
+}
+
+.destination-card--date {
+    font-weight: 700;
+}
+
+.destination-card--image {
+    width: 132px;
+    height: 175px;
+}
+
+.destination-card--description {
+    margin-top: 10px;
 }
