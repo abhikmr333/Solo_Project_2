@@ -1,0 +1,23 @@
+body {
+    font-family: Inter, sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: #f55a5a;
+    align-items: center;
+    justify-content: center;
+}
+
+.header--globe {
+    width: 27px;
+    height: 27px;
+    margin-right: 8px;
+}
+
+.header--name {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 500;
+}
